@@ -15,3 +15,6 @@
    <img src=https://github.com/simfrog/yolo_traffic_light/assets/31130917/5a224c90-2731-4b80-8b91-745acdd83232.png width=100, height=50>
 
 4. After divide between three and four traffic lights, calculate pixels, and distinguish signals according to the location of the black pixels
+
+## How to run
+#### rosrun yolo_traffic_light yolo_traffic_light.cpp
