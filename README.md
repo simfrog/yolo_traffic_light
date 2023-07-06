@@ -5,6 +5,11 @@ Detection and Recognition Traffic Lights
 * Yolo version : Gaussian YOLOv3
 * Dataset : BDD Dataset
 
+## Requirements
+1. Autoware-AI
+2. BDD Dataset
+3. Camera or Video
+  
 ## How to work
 1. Detection of traffic lights using YOLO  
    <img src=https://github.com/simfrog/yolo_traffic_light/assets/31130917/f5c80e85-e79b-4084-a16a-c6ebab09ecc5.png>
