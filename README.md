@@ -6,7 +6,7 @@ Detection and Recognition Traffic Lights
 * Dataset : BDD Dataset
 
 ## Requirements
-1. Autoware-AI
+1. Autoware-AI (vision_darknet_detect)
 2. BDD Dataset
 3. Camera or Video
   
