@@ -11,7 +11,7 @@ Detection and Recognition Traffic Lights
 3. Camera or Video
   
 ## How to work
-1. Detection of traffic lights using YOLO  
+1. Detection of traffic lights using Gaussian YOLO  
    <img src=https://github.com/simfrog/yolo_traffic_light/assets/31130917/f5c80e85-e79b-4084-a16a-c6ebab09ecc5.png>
    
 2. Select the largest of the detected traffic lights and extract only the traffic lights  
